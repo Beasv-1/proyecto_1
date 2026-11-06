@@ -1,9 +1,9 @@
 package Adapter;
 
 public class ProveedorHotel {
-    void findRooms() 
+public void findRooms() {}
 
-reserveRoom() 
+public void reserveRoom() {}
 
-cancelRoom() 
+public void cancelRoom() {}
 }
